@@ -2,6 +2,9 @@
 
 ### RAG (Retrieval-Augmented Generation) System
 
+**Instructions for code:**
+Run app.py, the main file, in vscode or any other IDE: python app.py
+
 **Project Summary**:
 
 This project is a text retrieval and summarization system that allows users to input a question and receive a concise summary based on relevant content.
